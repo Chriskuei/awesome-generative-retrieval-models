@@ -2,7 +2,7 @@
 
 > A curated list of awesome papers related to generative retrieval models. If I missed any papers, feel free to open a PR to include them! And any feedback and contribuitons are welcome!
 
-Generative retrieval are meant to replace the long-lived "retrieve-then-rank" paradigm by collapsing the indexing, retrieval, and ranking components of traditional Information Retrieval (IR) systems into a single unified model.
+Generative retrieval is meant to replace the long-lived "retrieve-then-rank" paradigm by collapsing the indexing, retrieval, and ranking components of traditional Information Retrieval (IR) systems into a single unified model.
 With generative retrieval, indexing is replaced with model training, while retrieval and ranking are replaced with model inference.
 
 ## Table of Contents
