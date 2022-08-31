@@ -7,7 +7,7 @@ With generative retrieval, indexing is replaced with model training, while retri
 
 ## Table of Contents
 - [Opinion Papers](#opinion-papers)
-- [Indexing Startegy](#indexing-startegy)
+- [Indexing Strategy](#indexing-strategy)
 - [Identifier Design](#identifier-design)
 - [Application](#application)
 
