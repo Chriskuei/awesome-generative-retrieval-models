@@ -32,9 +32,10 @@ With generative retrieval, indexing is replaced with model training, while retri
 
 ## Dynamic Corpora
 - [DSI++: Updating Transformer Memory with New Documents](https://arxiv.org/pdf/2212.09744.pdf). *Mehta et al*, Arxiv 2022. (**DSI++**)
-- [Contextualized Generative Retrieval](https://arxiv.org/pdf/2210.02068.pdf). *Lee et al*, Arxiv 2022. (**CGR**)
 
 ## Applications
 - [GERE: Generative Evidence Retrieval for Fact Verification](https://dl.acm.org/doi/pdf/10.1145/3477495.3531827). *Chen et al*, SIGIR 2022. [[Code](https://github.com/Chriskuei/GERE)] (**GERE**)
 - [Generative Multi-hop Retrieval](https://arxiv.org/pdf/2204.13596.pdf). *Lee et al*, Arxiv 2022. (**GMR**)
 - [Data-Efﬁcient Autoregressive Document Retrieval for Fact Veriﬁcation](https://arxiv.org/pdf/2211.09388). **Thorne**, Arxiv 2023. (**DearDR**)
+- [Contextualized Generative Retrieval](https://arxiv.org/pdf/2210.02068.pdf). *Lee et al*, Arxiv 2022. (**CGR**)
+
