@@ -20,6 +20,7 @@ With generative retrieval, indexing is replaced with model training, while retri
 
 ## Analysis
 - [Understanding Differential Search Index for Text Retrieval](https://arxiv.org/abs/2305.02073). *Chen et al.*, ACL 2023 Findings.
+- [How Does Generative Retrieval Scale to Millions of Passages?](https://arxiv.org/abs/2305.11841). *Pradeep et al.*, Arxiv 2023.
 
 ## Indexing Strategy
 - [Transformer Memory as a Differentiable Search Index](https://arxiv.org/abs/2202.06991). *Tay et al.*, NeurIPS 2022. [[Video](https://www.youtube.com/watch?v=qlB0TPBQ7YY)] (**DSI**)
@@ -33,6 +34,7 @@ With generative retrieval, indexing is replaced with model training, while retri
 - [DynamicRetriever: A Pre-training Model-based IR System with Neither Sparse nor Dense Index](https://arxiv.org/pdf/2203.00537.pdf). *Zhou et al*, Arxiv 2022. (**DynamicRetriever**)
 - [Ultron: An Ultimate Retriever on Corpus with a Model-based Indexer](https://arxiv.org/pdf/2208.09257.pdf). *Zhou et al*, Arxiv 2022. (**Ultron**)
 - [Learning to Tokenize for Generative Retrieval](https://arxiv.org/abs/2304.04171). *Sun et al*, Arxiv 2023. (**GenRet**)
+- [TOME: A Two-stage Approach for Model-based Retrieval](https://arxiv.org/abs/2305.11161). *Ren et al*, ACL 2023. (**TOME**)
 
 ## Dynamic Corpora
 - [DSI++: Updating Transformer Memory with New Documents](https://arxiv.org/pdf/2212.09744.pdf). *Mehta et al*, Arxiv 2022. (**DSI++**)
