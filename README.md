@@ -35,9 +35,12 @@ With generative retrieval, indexing is replaced with model training, while retri
 - [Ultron: An Ultimate Retriever on Corpus with a Model-based Indexer](https://arxiv.org/pdf/2208.09257.pdf). *Zhou et al*, Arxiv 2022. (**Ultron**)
 - [Learning to Tokenize for Generative Retrieval](https://arxiv.org/abs/2304.04171). *Sun et al*, Arxiv 2023. (**GenRet**)
 - [TOME: A Two-stage Approach for Model-based Retrieval](https://arxiv.org/abs/2305.11161). *Ren et al*, ACL 2023. (**TOME**)
+- [Term-Sets Can Be Strong Document Identifiers For Auto-Regressive Search Engines](https://arxiv.org/abs/2305.13859). *Zhang et al*, Arxiv 2023. (**AutoTSG**)
+- [Multiview Identifiers Enhanced Generative Retrieval](https://arxiv.org/abs/2305.16675). *Li et al*, ACL 2023.
 
 ## Dynamic Corpora
 - [DSI++: Updating Transformer Memory with New Documents](https://arxiv.org/pdf/2212.09744.pdf). *Mehta et al*, Arxiv 2022. (**DSI++**)
+- [Continually Updating Generative Retrieval on Dynamic Corpora](https://arxiv.org/pdf/2305.18952.pdf). *Yoon et al*, Arxiv 2022. (**StreamingIR**)
 
 ## Applications
 - [GERE: Generative Evidence Retrieval for Fact Verification](https://dl.acm.org/doi/pdf/10.1145/3477495.3531827). *Chen et al*, SIGIR 2022. [[Code](https://github.com/Chriskuei/GERE)] (**GERE**)
